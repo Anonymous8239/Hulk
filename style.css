@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+  color:white;
+  background-color: black;
+font-family: 'Main';
+  user-select: none;
+}
+@font-face{
+    font-family: "main";
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+.title{
+  text-align:center;
+  font-size: 100px;
+  	background: linear-gradient(90.02deg, #ef3550 0.02%,#f48fb1 27.09%,  #7e57c2 51.04%, #2196f3 76.56%, #26c6da 87.99%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+   text-fill-color: transparent;
+  background-clip: text;
+}
+.mainsec{
+  margin: auto;
+  width: 50%;
+}
+.mainsec p{
+  color: red;
+  border: red dashed;
+  font-weight: bolder;
+  font-size: 25px;
+  width: 700px;
+  border-radius: 14px;
+  text-align:center;
+}
+.research p{
+  color: orange;
+  border: dashed orange;
+}
