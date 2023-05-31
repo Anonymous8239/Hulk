@@ -32,7 +32,101 @@ font-family: 'Main';
   border-radius: 14px;
   text-align:center;
 }
+  
+.research{
+  margin: auto;
+  width: 50%;
+}
 .research p{
   color: orange;
   border: dashed orange;
+    font-weight: bolder;
+  font-size: 25px;
+  width: 700px;
+  border-radius: 14px;
+  text-align:center;
+}
+.comp{
+  margin: auto;
+  width: 50%;
+}
+.comp p{
+  border: dashed yellow;
+  color: yellow;
+    font-weight: bolder;
+  font-size: 25px;
+  width: 700px;
+  border-radius: 14px;
+  text-align:center;
+}
+.gmvsfm p{
+  border: dashed green;
+   color:green;
+     font-weight: bolder;
+  font-size: 25px;
+  width: 700px;
+  border-radius: 14px;
+  text-align:center;
+}
+.gmvsfm{
+  margin: auto;
+  width: 50%;
+}
+.anger{
+  margin: auto;
+  width: 50%;
+}
+.anger p{
+  color: blue;
+  border: dashed blue;
+  font-weight: bolder;
+  font-size: 25px;
+  width: 700px;
+  border-radius: 14px;
+  text-align:center;
+}
+.da{
+  margin: auto;
+  width: 50%;
+}
+.da p{
+  color: indigo;
+  border: dashed indigo;
+  font-weight: bolder;
+  font-size: 25px;
+  width: 700px;
+  border-radius: 14px;
+  text-align:center;
+}
+.yimsg{
+  margin: auto;
+  width: 50%;
+}
+.yimsg p{
+  color: purple;
+  border: dashed purple;
+  font-weight: bolder;
+  font-size: 25px;
+  width: 700px;
+  border-radius: 14px;
+  text-align:center;
+}
+.conclusion{
+  margin:auto;
+  width: 50%;
+}
+.conclusion p{
+    text-align:center;
+  font-size: 100px;
+  	background: linear-gradient(90.02deg, #ef3550 0.02%,#f48fb1 27.09%,  #7e57c2 51.04%, #2196f3 76.56%, #26c6da 87.99%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+   text-fill-color: transparent;
+  background-clip: text;
+    font-weight: bolder;
+  font-size: 25px;
+  width: 700px;
+  border-radius: 14px;
+  text-align:center;
+  border: dashed linear-gradient(90.02deg, #ef3550 0.02%,#f48fb1 27.09%,  #7e57c2 51.04%, #2196f3 76.56%, #26c6da 87.99%);
 }
